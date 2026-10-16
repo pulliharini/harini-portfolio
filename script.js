@@ -5,4 +5,4 @@ if (yearElement) {
     yearElement.textContent = new Date().getFullYear();
 }
 
-console.log("Harini's portfolio is ready!");
+console.log("Portfolio loaded successfully.");
